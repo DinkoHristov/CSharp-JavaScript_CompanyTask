@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<study>
+    <alias>Study1</alias>
+    <field>Field1</field>
+    <alias>Study2</alias>
+    <field>Field2</field>
+    <alias>Study3</alias>
+    <field>Field3</field>
+</study>
